@@ -21,10 +21,8 @@
 blindly follow the domain
 
 
-
 <img width="3149" height="1515" alt="clean database is crucial 2" src="https://github.com/user-attachments/assets/5937fdcf-12c4-4253-a52f-3dad8a5b70b5" />
 generalise the domain
-
 
 
 <img width="3149" height="1515" alt="clean database is crucial 3" src="https://github.com/user-attachments/assets/a6ac62fc-2a35-4c4a-9b05-6530d3069433" />
