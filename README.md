@@ -96,3 +96,6 @@ Make use of the multivariate data using k-means clustering
 - The data exhibits consistent results between manual domaining and domaining based on clustering.
 - Further validation using PCA supports the clustering technique, by showing variance can be explained by two PCs and those two PCs are in high agreement with the clusters from previous k-means clustering analysis.
 - Machine learning could be a powerful tool for geologists to explore the spatial uncertainty of the domain by a given dataset quickly.
+
+## Presentation Deck
+[Domaining using Machine Learning Study.pdf](https://github.com/user-attachments/files/28314709/Domaining.using.Machine.Learning.Study.pdf)
